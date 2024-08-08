@@ -1,0 +1,7 @@
+Date,Type,Transaction ID,Received Quantity,Received Currency,Received Cost Basis (USD),Received Wallet,Received Address,Received Comment,Sent Quantity,Sent Currency,Sent Cost Basis (USD),Sent Wallet,Sent Address,Sent Comment,Fee Amount,Fee Currency,Fee Cost Basis (USD),Realized Return (USD),Fee Realized Return (USD),Transaction Hash
+07/19/2024 10:40:00,MULTI_TOKEN_TRADE,0190cb6b-c1a9-732f-a151-8ac03fd03a31,110.00000000,USD,,Coinbase Cash (USD),,,0.05587000,USDC,0.05,Coinbase SOL Wallet,,,,,,77.03,,
+07/19/2024 10:40:00,MULTI_TOKEN_TRADE,0190cb6b-c1a9-732f-a151-8ac03fd03a31,,,,,,,0.00015000,SOL,0.00,Coinbase SOL Wallet,,,,,,32.92,,
+07/19/2024 10:40:00,MULTI_TOKEN_TRADE,0190cb6b-c1a9-732f-a151-8ac03fd03a31,,,,,,,0.00800000,USDC,0.01,Coinbase SOL Wallet,,,,,,0.00,,
+07/19/2024 10:40:00,MULTI_TOKEN_TRADE,0190cb6b-c1a9-732f-a151-8ac03fd03a31,,,,,,,0.00070000,ATOM,0.01,Coinbase SOL Wallet,,,,,,0.00,,
+06/21/2024 04:43:54,SELL,0190391f-295a-7d8c-b4f7-385ec18de0b0,1800.00000000,USD,,Other transactions,,,7000.00000000,CBETH,0.45,Coinbase CBETH Wallet,,,0.06650000,SOL,0.00,1790.68,8.88,
+06/21/2024 04:43:54,SELL,0190391f-295a-7d8c-b4f7-385ec18de0b0,,,,,,,,,,Coinbase CBETH Wallet,,,0.00002000,SHI,0.00,,0.00,
